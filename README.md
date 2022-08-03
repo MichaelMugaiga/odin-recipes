@@ -8,7 +8,7 @@ At the end of this project i will have been able to:-
 - Link different pages of the website to the home page
 - Add images on the different page
 - Write headings
-- Create unordered and unordered lists
+- Create unordered and ordered lists
 - Push the projects to github
 - Publish the website in github
 
